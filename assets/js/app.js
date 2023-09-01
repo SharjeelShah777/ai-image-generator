@@ -1,4 +1,4 @@
-const Api_Key = "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";
+const Api_Key = "Your Api Key";
 
 const submitIcon = document.querySelector('#submit-btn');
 const inputElement = document.querySelector("input");
